@@ -6,19 +6,19 @@ The dataset consists of user interaction data with online advertisements, contai
 
 ## Project Workflow
 1. Data Preprocessing:
-   *Drop non-important features and duplicates.
-   *Handle missing values if any.
-   *Convert categorical variables into numerical representations if necessary.
+   * Drop non-important features and duplicates.
+   * Handle missing values if any.
+   * Convert categorical variables into numerical representations if necessary.
 
 2. Exploratory Data Analysis (EDA):
-   *Analyze sales trends, price distributions, and promotional effects.
-   *Visualize customer purchase behavior and feature correlations.
+   * Analyze sales trends, price distributions, and promotional effects.
+   * Visualize customer purchase behavior and feature correlations.
    
 3. Feature Engineering:
-   *Create new relevant features to improve model performance.
-   *Normalize or scale numerical features if required.
+   * Create new relevant features to improve model performance.
+   * Normalize or scale numerical features if required.
 
 4. Model Training:
-   *Train a machine learning model to predict label (purchase or no purchase).
-   *Evaluate model performance using accuracy, precision, recall, and F1-score.
+   * Train a machine learning model to predict label (purchase or no purchase).
+   * Evaluate model performance using accuracy, precision, recall, and F1-score.
 
